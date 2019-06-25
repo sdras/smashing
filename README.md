@@ -4,6 +4,8 @@ I live coded a Vue/Nuxt portfolio app in 45 minutes with layout and animation at
 
 **I'll post the video here when it's up!**
 
+![Screenshot of Site](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/Screen%20Shot%202019-06-25%20at%204.21.33%20PM.png)
+
 ## VS Code Extensions
 
 I use my own [VS Code snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) a ton in development to speed up my workflow/not have to type boilerplate.
@@ -18,6 +20,8 @@ I used my [CSS Grid Generator](https://cssgrid-generator.netlify.com/) to create
 
 ## Terminal Razzle Dazzle
 
+I used [Hub](https://hub.github.com/) to create a repo from the command line.
+
 I mentioned I'd share how I made my terminal fancy. For the colors:
 `brew install lolcat`
 
@@ -30,7 +34,6 @@ export LSCOLORS=gx
 alias l='ls | lolcat'
 ```
 
-I used [Hub](https://hub.github.com/) to create a repo from the command line.
 Also the sparks are from [Hyperpower](https://github.com/zeit/hyperpower).
 
 ## Build Setup
