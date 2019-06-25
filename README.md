@@ -1,10 +1,26 @@
-# smashing
+# Smashing Toronto 2019 Talk
 
-> My remarkable Nuxt.js project
+I live coded a Vue/Nuxt portfolio app in 45 minutes with layout and animation at Smashing Conf, here's the repo, and it was deployed to: [https://smashingtoronto.netlify.com/](https://smashingtoronto.netlify.com/)
+
+**I'll post the video here when it's up!**
+
+I mentioned I'd share how I made my terminal fancy. For the colors:
+`brew install lolcat`
+
+Then in `.bash_profile`:
+
+```
+export CLICOLOR=1
+export LSCOLORS=gx
+
+alias l='ls | lolcat'
+```
+
+Also the sparks are from [https://github.com/zeit/hyperpower](Hyperpower)
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
