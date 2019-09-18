@@ -2,7 +2,7 @@
 
 I live coded a Vue/Nuxt portfolio app in 45 minutes with layout and animation at Smashing Conf, here's the repo, and it was deployed to: [https://smashingtoronto.netlify.com/](https://smashingtoronto.netlify.com/)
 
-**I'll post the video here when it's up!**
+**Video of the talk here!** [https://vimeo.com/348717993](https://vimeo.com/348717993)
 
 ![Screenshot of Site](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/Screen%20Shot%202019-06-25%20at%204.21.33%20PM.png)
 
